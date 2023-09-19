@@ -1,0 +1,54 @@
+
+
+.Main {
+    position: absolute;
+    top: 50%;
+    left: 8%;
+    transform: translateY(-50%);
+    display: flex;
+}
+
+
+.Main span {
+    color: #f9004d;
+}
+
+h1 {
+    color: #fff;
+    margin: 20px 0px 20px;
+    font-size: 75px;
+}
+.imageContainer{
+    margin-left: 500px;
+}
+
+.textContainer{
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+
+}
+
+h4 {
+    color: #fcfc;
+    letter-spacing: 2px;
+    font-size: 20px;
+}
+
+h3 {
+    color: #fff;
+    font-size: 25px;
+    margin-bottom: 50px;
+}
+
+img {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    width: 400px;
+    margin: 0 auto;
+}
+
+.projeto{
+    display: flex;
+}
