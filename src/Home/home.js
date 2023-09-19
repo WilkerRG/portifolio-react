@@ -4,7 +4,7 @@ import Header from '../componets/header';
 
 function Home() {
   return (
-    <Header/>
+    // <Header/>
     //  <Footer/>
   );
 }
