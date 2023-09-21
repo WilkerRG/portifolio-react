@@ -4,11 +4,11 @@ import Sobre from './Sobre/sobre';
 
 function App() {
   return (
-      
-    <Home/>
-   /* <Sobre/>*/
- 
-      
+
+    /*<Home/>*/
+    <Sobre />
+
+
   );
 }
 
