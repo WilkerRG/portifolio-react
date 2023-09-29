@@ -1,57 +1,48 @@
-.projeto-sobre{
+.projeto-sobre {
     display: flex;
 }
+
 img {
     display: flex;
     align-items: center;
     justify-content: space-around;
-    width: 400px;   
+    width: 450px;
     margin: 0 auto;
 }
+
 .main-sobre {
     position: absolute;
     top: 50%;
-    left: 8%;
+    left: 15%;
     transform: translateY(-50%);
     display: flex;
     margin: 0 auto;
     width: 1130px;
-    
-}
-
-.text-sobre{ 
-    justify-content: space-around;
-    align-items: center;
-    display: flex;
-    margin: 0 auto;
-    width: 1130px;
-    flex-direction: column;
-    
 
 }
-.text-sobre h2{
+
+.text-sobre {
+    width: 550px;
+    padding-top: 100px;
+}
+
+.text-sobre h2 {
     color: #fff;
-    font-size: 75px;    
+    font-size: 75px;
     text-transform: capitalize;
     margin-bottom: 25px;
 }
-.text-sobre h5{
-    color: #fff;
-    letter-spacing: 2px;
-    font-size: 22px;
-    margin-bottom: 25px;
-    text-transform: capitalize;
-}
 
-.text-sobre p{
+
+.text-sobre p {
     color: #fff;
     letter-spacing: 1px;
     line-height: 28px;
-    font-size: 18px;
+    font-size: 20px;
     margin-bottom: 45px;
-    
-}
-span{
-    color: #f9004d;
+
 }
 
+span {
+    color: #f9004d;
+}

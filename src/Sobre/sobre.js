@@ -7,9 +7,8 @@ function Sobre() {
   return (
     <div className="projeto-sobre">
       <Header />
-  
       <div className='main-sobre'>
-        <img src = {wilker}/>
+        <img src={wilker} />
         <div className='text-sobre'>
           <h2>Sobre <span>Mim</span> </h2>
           <p>Olá, meu nome é Wilker Ribeiro Guimarães, tenho 22 anos nascido em Timóteo-MG. Estudante de Engenharia da Computação no CEFET-MG Campus Timóteo.
@@ -17,9 +16,8 @@ function Sobre() {
           </p>
         </div>
       </div>
-
       <Footer />
-    </div> 
+    </div>
   );
 }
 

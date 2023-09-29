@@ -1,9 +1,9 @@
-import styles from './footer.module.css';
+import './footer.module.css';
 
 function Footer(){
     return(
-        <footer class="footerGenerico">
-        <p class="end">CopyRight By Wilker R. Guimarães</p>
+        <footer className="footer">
+        <p className="end">CopyRight By Wilker R. Guimarães</p>
     </footer>
 
     )

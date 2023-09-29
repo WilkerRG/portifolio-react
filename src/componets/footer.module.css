@@ -11,17 +11,21 @@ footer{
 }
 
 footer p{
-    color: #fff;
-    font-size: 12px;
+    color: #f9004d;
+    font-size: 14px;
     width: 100%;
     text-align: center;
     margin-top: 0px;
-    letter-spacing: 5px;
+    letter-spacing: 3px;
     line-height: 23px;
+    bottom: 0%;
+    position: absolute;
 }
 .end{
+    margin-top: 100px;
+    justify-content: center;
     position: absolute;
     color: #f9004d;
-    bottom: 35px;
+    bottom: 0px;
     font-size: 14px ;
 }
