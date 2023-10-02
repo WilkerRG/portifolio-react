@@ -11,7 +11,7 @@ function Contato() {
             <div className="container-contato">
             <div className="me-contate">
                 <p>Entre em contato e vamos ter uma conversa sobre o nosso projeto</p>
-                <a href="https://api.whatsapp.com/send?phone=+5531995278941" target= "blank" >
+                <a href="https://wa.me/5531995278941?text=Ol%C3%A1%21+Tudo+joia%3F" target= "blank" >
                     <button type="button">Vamos conversar</button>
                 </a>
             </div>
@@ -21,7 +21,7 @@ function Contato() {
            
                 <div className="Redes-sociais">
                     <a href="https://www.instagram.com/wilkerrguima/" target= "blank" className="instagram"><img className="icon" src={Insta} alt="" /></a>
-                    <a href ="https://api.whatsapp.com/send?phone=+5531995278941" target= "blank" className="whatsapp"><img className="icon" src={Whats} alt="" /></a>
+                    <a href ="https://wa.me/5531995278941?text=Ol%C3%A1%21+Tudo+joia%3F" target= "blank" className="whatsapp"><img className="icon" src={Whats} alt="" /></a>
                 </div>
             </footer>
             </div>
