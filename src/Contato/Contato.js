@@ -11,7 +11,7 @@ function Contato() {
             <div className="container-contato">
             <div className="me-contate">
                 <p>Entre em contato e vamos ter uma conversa sobre o nosso projeto</p>
-                <a href="https://api.whatsapp.com/send?phone=+5531995278941">
+                <a href="https://api.whatsapp.com/send?phone=+5531995278941" target= "blank" >
                     <button type="button">Vamos conversar</button>
                 </a>
             </div>

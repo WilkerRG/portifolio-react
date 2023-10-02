@@ -23,7 +23,7 @@ function Clientes() {
                                 <br />
                                 <br />
                             </p>
-                            <a href="https://site.escolaeba.com.br/index.html">
+                            <a href="https://site.escolaeba.com.br/index.html" target= "blank" >
                                 <button type="button">Ler Mais</button>
                             </a>
                         </div>
@@ -38,7 +38,7 @@ function Clientes() {
                                 de 40 países. A partir de 31.12.2021, o negócio está organizado em quatro segmentos
                                 principais reportáveis: Aços Inoxidáveis ​​e Elétricos, Serviços e Soluções, Ligas e
                                 Especialidades e Reciclagem e Renováveis. </p>
-                            <a href="https://www.aperam.com/about-us/">
+                            <a href="https://www.aperam.com/about-us/" target= "blank" >
                                 <button type="button">Ler Mais</button>
                             </a>
 
